@@ -1,0 +1,13 @@
+ 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`: es un bucle compuesto por la palabra clave 'for', una variable, una condición sobre esa variable y el aumento de su valor. El valor se incrementa cada vez que finaliza un ciclo. 
+
+Ejemplo: for (i = 0; i < 10; i++){
+                console.log(i);
+             }
+
+* `&&`: es el símbolo de operador lógico AND, funciona como una multiplicación, es decir, si tenemos 2 valores verdaderos (true * true o 1 * 1) nos devolverá un valor true, por el contrario, solo basta tener 1 valor falso (true * false o 1 * 0) para obtener como resultado un valor false.
+
+* `||`: es el símbolo de operador lógico OR, funciona como una suma, es decir, si tenemos 2 valores falsos (false + false o 0 + 0) nos devolverá un valor false, por el contrario, solo basta tener 1 valor verdadero (true + false o 1 + 0) para obtener como resultado un valor true.
+
+* `!`: es el símbolo de operador lógico NOT, funciona como una negación, es decir, nos devuelve lo contrario del valor que le damos (!0 = 1, !1 = 0, !false = true. !true= false).
