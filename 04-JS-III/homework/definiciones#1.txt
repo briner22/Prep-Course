@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: es una estructura de alamacenamiento de datos muy similar a una lista. 
+	En esta lista puedo guardar datos del mismos tipo como por ejemplo strings o datos
+	 de diferentes tipos, es decir, strings, numeros, otro arreglo, una función, etc. 
+	 A cada dato que se guarde en el arreglo se le llamará elemento. Para llamar 
+	 a un elemento del arreglo debemos indicar su posición. Las posiciones en los arreglos
+	 siempre empiezan desde 0, es decir, el primer elemento se encuentra en la posción 0 
+	 y el elemento 2 en la posición 1.
