@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: es un contenedor de propiedades las cuales, a su vez guardan distintos datos o funciones.
+	* Propiedades: estas se constituyen del llamado par key/value, en donde key sería el nombre de la propiedad
+                   y value el valor de dicha propiedad. Estas propiedades pueden ser strings, numeros, booleanos, funciones, arreglos etc.
+	* Métodos: se les llama métodos a las propiedades que tienen como valor una función.
+	* Bucle `for…in`: es el bucle que nos permite recorrer tanto las propiedades de un objeto como los         valores de cada propiedad del obejeto.
+	* Notación de puntos vs notación de corchetes
+
+    La notación de puntos es la más sencilla a la hora de invocar las propiedades de un obejto. Primero se escribe el nombre del objeto seguido de un punto y por ultimo el nombre de la propiedad (todo junto). Ejemplo: objeto.propiedad
+
+    La notación de corchetes se usa de la siguiente manera: se escribe el nombre del obejto, seguido de corchetes. Dentro de los corchetes abrimos comillas y dentro de las comillas se escribe la propiedad que deseamos invocar.
