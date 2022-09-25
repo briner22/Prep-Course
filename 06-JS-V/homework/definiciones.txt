@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes
+ conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará 
+ a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `prototype`: es una propiedad que contienen todas las funciones o clases y que afectan 
+               a todos las instanciaciones u obejtos de la función y por la cual se realiza
+               el concepto de herencia. 
+
+* _Constructors_ (de Clases): el constructor es la parte de una clase la cual nos permite 
+                              operar con los parámetros (argumentos) que le queremos pasar
+                              a las propiedades de esa clase. 
