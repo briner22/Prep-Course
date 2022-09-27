@@ -1,18 +1,32 @@
 h1 {
-    color:forestgreen;
+    color:white;
+}
+h3, h4, .divClass {
+    color:yellow
 }
 img {
     height: 300px;
     width: 400px
 }
 #thirdDiv { 
+    margin: auto;
     height: 600px;
     width: 500px;
     background-color: blue;
     padding: 50px;
-    border: 10px red
+    border: 10px red  
 }
 #spanId {
     font-size: 18px;
-    margin: 50px
+    margin: 50px;
 }
+.divClass {
+    margin: auto;
+    width: 500px;
+}
+#fondo{
+    background-image: url(./fondo.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
