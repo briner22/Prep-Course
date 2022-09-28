@@ -1,0 +1,46 @@
+div, h1{
+    position: absolute;
+}
+h1 {
+    opacity: .8;
+    margin-left: 50%;
+    width: 700px;
+}
+#lista {
+    margin-left: 40%;
+    margin-top: 70px;
+    width: 600px;
+    font-size: 18px;
+}
+#bkus{
+    /* width: 900px; */
+    position: absolute;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 1370px;
+    font-size: 25px;
+}
+#divExpect {
+    margin-left: 35%;
+    margin-top: 1325px;
+    font-size: 25px;
+}
+#lateral b{
+    margin-left: 50px
+}
+#lateral img {
+    margin-bottom: 20px;
+    width: 300px;
+    height: 450px;
+}
+#lateral div{
+    width: 250px;
+    margin-left: 25px;
+}
+#lateral{
+margin-left: 200px;
+font-size: 20px;
+background-color: darkslategray ;
+width: 300px;
+height: 1300px;
+}
